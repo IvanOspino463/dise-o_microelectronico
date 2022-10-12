@@ -1,2 +1,2 @@
 # dise-o_microelectronico
-Proyecto diseño microelectronico
+Proyecto diseño microelectron
